@@ -16,7 +16,7 @@ Note: Parameter K here was set as equal to the number of clusters. Generally,
       In some cases, the dataset is too complex to be able to expect a specific
       number of clusters. Some methods intend to determine the optimal K to choose,
       or some algorithms derived from k-means do not require to choose K beforehand
-      as they adjust number of clusters automatically during the execution.
+      as they automatically adjust the number of clusters during the execution.
 """
 
 def fitSampleToPrototype(X, centroids):
