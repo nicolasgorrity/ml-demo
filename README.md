@@ -1,10 +1,11 @@
 # ml-demo
 Implementation and demos of machine learning algorithms
 
-## Usage
-Algorithms were implemented in Python3. Compatibility with Python2 is possible but not guaranteed.
+## Dependencies
 
-Python libraries such as numpy were used for various mathematics and matrix manipulations.
+Tested with `python3.6`.
+
+Setup your virtual environment with `pip install -r requirements.txt`
 
 ## Purpose
 These scripts are demos of widely used methods in machine learning.
